@@ -39,6 +39,7 @@ let atletas = [
  }
 ];
 
+
 Dados de saída:
 Atleta: Cesar Abascal
 Notas Obtidas: 10,10,7.88,8.42,9.34
@@ -55,3 +56,14 @@ Média Válida: 8.166666666666666
 Atleta: Bruno Castro
 Notas Obtidas: 10,10,10,9,9.5
 Média Válida: 9.666666666666666
+
+
+=============================================================
+Projeto de Cerificação 1 - Curso Lógica de Programação com JavaScript, DevStart/Senai
+
+Construído com:
+VsCode
+CodePen
+
+Autor:
+Marcelo Gama Martins
