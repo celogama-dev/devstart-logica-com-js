@@ -59,6 +59,7 @@ Média Válida: 9.666666666666666
 
 
 =============================================================
+
 Projeto de Cerificação 1 - Curso Lógica de Programação com JavaScript, DevStart/Senai
 
 Construído com:
